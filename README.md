@@ -25,5 +25,5 @@ solicitando un nombre válido.
 y lo mostrará en pantalla.
 
 <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img src="https://img.shields.io/badge/STATUS-Finalizado-green">
 </p>
