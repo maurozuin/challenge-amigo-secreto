@@ -4,7 +4,7 @@
 challenge-amigo-secreto ejercicio js
 
 <h4 align="center">
-:descripcion: Descripción del proyecto :descripcion:
+ Descripción del proyecto 
 </h4>
 El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. 
 Aquí deberás desarrollar la lógica para resolver el problema.
@@ -14,7 +14,7 @@ a través de un campo de texto y un botón "Añadir", visualizar la lista y, fin
 "Sortear Amigo" para seleccionar un nombre aleatorio, mostrando el resultado en pantalla.
 
 <h4 align="center">
-:funcs: Funcionalidades implementadas :funcs:
+Funcionalidades implementadas
 </h4>
 
 -Agregar nombres: Los usuarios pueden ingresar nombres en un campo de texto y hacer clic en "Añadir" para agregarlos a la lista.
